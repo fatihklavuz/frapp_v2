@@ -24,7 +24,7 @@ def mylogo():
 mylogo()
 
 
-new_pass=[]
+
 name=input("Victim Name : ")
 surname=input("Victim SurName : ")
 birtday=input("Victim Birthday :" )
