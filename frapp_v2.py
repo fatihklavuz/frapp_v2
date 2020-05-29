@@ -28,7 +28,7 @@ mylogo()
 name=input("Victim Name : ")
 surname=input("Victim SurName : ")
 birtday=input("Victim Birthday :" )
-long_spec='!#$%&/()=?-_@<>.\' '
+long_spec='!#$%&/()=?-_@<>.\''
 smp_spec="'-+*/.' '"
 passleng=int(input("Enter Password Length (Sample 10) : "))
 
